@@ -1,0 +1,13 @@
+h1 {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 52px;
+}
+
+.heading {
+	border-bottom: 2px solid black;
+}
+
+.heading img {
+	float: right;
+}
+
