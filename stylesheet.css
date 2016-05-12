@@ -22,8 +22,8 @@ header {
 }
 
 header h1 {
+    display: inline-block;
     
-    *display: inline;
 }
 
 header img {
