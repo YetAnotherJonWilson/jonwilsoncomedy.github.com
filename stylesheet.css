@@ -21,16 +21,14 @@ header {
 	border-bottom: 2px solid black;
 }
 
+header h1 {
+    display: inline-block;
+    *display: inline;
+}
 
 header img {
 	vertical-align: bottom;
 	float: right;
-
-}
-
-header h1 {
-    display: inline-block;
-    *display: inline;
 }
 
 .contact ul {
