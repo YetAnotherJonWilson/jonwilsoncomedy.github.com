@@ -17,18 +17,18 @@ h1 {
 	padding: 0px 45px 0px 45px;
 }
 
-.title {
+header {
 	border-bottom: 2px solid black;
 }
 
 
-.title .dl {
+header img {
 	vertical-align: bottom;
 	float: right;
 
 }
 
-.title .titleheading{
+header title {
     display: inline-block;
     *display: inline;
 }
