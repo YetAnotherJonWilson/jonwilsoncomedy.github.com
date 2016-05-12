@@ -25,8 +25,8 @@ h1 {
 }
 
 .title .titleheading{
+    display: inline-block;
     
-    *display: inline;
 }
 
 .contact ul {
