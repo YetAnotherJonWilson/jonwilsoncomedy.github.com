@@ -19,7 +19,7 @@ h1 {
 
 
 .title .dl {
-	
+	vertical-align: bottom;
 	float: right;
 
 }
@@ -27,7 +27,6 @@ h1 {
 .title .titleheading{
     display: inline-block;
     *display: inline;
-    
 }
 
 .contact ul {
@@ -40,5 +39,3 @@ img {
 	border: 1px solid black;
 	border-radius: 15px;
 }
-
-
