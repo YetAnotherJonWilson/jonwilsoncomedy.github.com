@@ -5,9 +5,11 @@ body {
 	 background-image: url("background.jpg");
 	}
 	
-media screen and (min-device-width="500px") {
+@media screen and (min-device-width: 600px) {
+	body {
 	margin-right: 100px;
-	margin-left: 100px;
+	margin-left: 100px;	
+	}
 }
 
 h1 {
