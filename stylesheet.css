@@ -8,10 +8,10 @@ section {
 	background-image: url("background.jpg");
 }
 	
-@media screen and (min-device-width: 600px) {
+@media screen and (min-device-width: 900px) {
 	section {
-	margin-right: 100px;
-	margin-left: 100px;	
+	margin-right: 200px;
+	margin-left: 200px;	
 	}
 }
 
