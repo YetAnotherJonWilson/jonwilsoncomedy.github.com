@@ -1,8 +1,5 @@
 body {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-}
-
-.container {
 	 margin: auto;
 	 width: 80%;
 	 padding: 10px;
@@ -13,7 +10,7 @@ h1 {
 	font-size: 42px;
 }
 
-.container p {
+p {
 	padding: 0px 45px 0px 45px;
 }
 
@@ -31,7 +28,7 @@ header img {
 	float: right;
 }
 
-.contact ul {
+section ul {
 	list-style-type: none;
 	padding-left: 0;
 	font-style: italic;
