@@ -19,7 +19,7 @@ h1 {
 	font-size: 42px;
 }
 
-.contact {
+.contact ul {
 	list-style-type: none;
 	padding-left: 0;
 	font-style: italic;
