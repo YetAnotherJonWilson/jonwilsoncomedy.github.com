@@ -37,7 +37,7 @@ header img {
 	float: right;
 }
 
-section ul {
+ul {
 	list-style-type: none;
 	padding-left: 0;
 	font-style: italic;
