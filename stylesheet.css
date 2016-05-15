@@ -2,18 +2,18 @@ body {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
+@media screen and (max-width:599px) {
+	.container {
+		width: 100%;
+		background-image: url("background.jpg");
+	}
+}
+
 @media screen and (min-width:600px) {
 	.container {
 	    margin: auto;
 	    width: 60%;
 	    padding: 10px;
-		background-image: url("background.jpg");
-	}
-}
-
-@media screen and (max-width:599px) {
-	.container {
-		width: 100%;
 		background-image: url("background.jpg");
 	}
 }
