@@ -4,6 +4,11 @@ body {
 	 padding: 10px;
 	 background-image: url("background.jpg");
 	}
+	
+media screen and (min-device-width="500px") {
+	margin-right: 100px;
+	margin-left: 100px;
+}
 
 h1 {
 	font-size: 42px;
