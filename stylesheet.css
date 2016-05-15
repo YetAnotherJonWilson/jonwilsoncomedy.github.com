@@ -19,6 +19,12 @@ h1 {
 	font-size: 42px;
 }
 
+#contact ul {
+	list-style-type: none;
+	padding-left: 0;
+	font-style: italic;
+}
+
 p {
 	padding: 0px 45px 0px 45px;
 }
@@ -35,12 +41,6 @@ header h1 {
 header img {
 	vertical-align: bottom;
 	float: right;
-}
-
-#contact ul {
-	list-style-type: none;
-	padding-left: 0;
-	font-style: italic;
 }
 
 img {
